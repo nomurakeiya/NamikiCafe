@@ -1,0 +1,10 @@
+body, html{
+    height: 400px;
+    margin: 0;
+}
+
+body {
+    display: grid;
+    justify-items: center;
+}
+
