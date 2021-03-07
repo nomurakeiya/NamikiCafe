@@ -1,7 +1,7 @@
 lottie.loadAnimation({
     container: document.getElementById("first"),
     renderer: "svg",
-    loop: true,
+    loop: false,
     autoplay: true,
     path: "first.json"
   });
@@ -9,7 +9,7 @@ lottie.loadAnimation({
 lottie.loadAnimation({
   container: document.getElementById("second"),
   renderer: "svg",
-  loop: true,
+  loop: false,
   autoplay: true,
   path: "second.json"
 });
